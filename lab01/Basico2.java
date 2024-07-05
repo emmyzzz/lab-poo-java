@@ -29,6 +29,11 @@ public class Basico2 {
         int numero5 = Integer.MAX_VALUE;
         var numero6 = 1;
 
+        long numeroLong1 = 100L;
+        long numeroLong2 = Long.MIN_VALUE;
+        long numeroLong3 = Long.MAX_VALUE;
+
+
         float numeroFloat1 = 3.2f;
         float numeroFloat2 = Float.MIN_VALUE;
         float numeroFloat3 = Float.MAX_VALUE;
