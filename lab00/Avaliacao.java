@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Avaliacao{
     public static void main(String[] args){
         var sc = new Scanner(System.in);
-        System.out.print("Escolha uma operação pela numeração: Soma (1); Subtração (2); Divisão (3); Multiplicação (4)");
+        System.out.println("Escolha uma operação pela numeração: Soma (1); Subtração (2); Divisão (3); Multiplicação (4)");
         var opc = sc.nextInt();
         var adicao = 1;
         var subt = 2;
